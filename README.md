@@ -35,7 +35,7 @@ Note: Make sure you adjust the '#!' line to your systems.
     ./SCRIPT_NAME.sh
 
 To install wget on MacOS, use Homebrew:
-    ```bash
+    ```shell
     brew install wget 
 
 ## topics-covered
