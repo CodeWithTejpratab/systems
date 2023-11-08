@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+#code by CodeWithTejpratab
+#
 
 echo "if-statements in bash"
 echo "Below are list of conditional  arguments for numbers only"
