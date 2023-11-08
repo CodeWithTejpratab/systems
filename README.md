@@ -7,8 +7,6 @@ Welcome to the Systems Programming class repository! This project aims to provid
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Topics Covered](#topics-covered)
-- [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -38,3 +36,12 @@ Note: Make sure you adjust the '#!' line to your systems.
 
 To install wget on MacOS, use Homebrew:
 brew install wget 
+
+## topics-covered
+
+1. Bash Basics
+2. if-statements 
+3. loops 
+
+## contributing
+CodeWithTejpratab
