@@ -36,7 +36,6 @@ Note: Make sure you adjust the '#!' line to your systems.
 
 To install wget on MacOS, use Homebrew:
 
-    ```brew
     brew install wget 
 
 ## topics-covered
