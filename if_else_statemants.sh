@@ -22,7 +22,7 @@ echo -e "\n note that '[' and ']' are not syntax, they are treated as commands, 
 
 echo -e "Below you will find an example of if statements using text\n"
 
-if [ " apple" > "army" ]
+if [ 'apple' > 'army' ]
 then 
 	echo "True"
 else 
