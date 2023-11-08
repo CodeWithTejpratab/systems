@@ -19,7 +19,7 @@ Systems programming involves writing software that directly communicates with th
 ## Getting Started
 
 To get started with the materials in this repository, follow these steps:
-Note: Make sure you adjust the '#!' line to your systems
+Note: Make sure you adjust the '#!' line to your systems.
 
 1. Download the file to your local machine:
 
