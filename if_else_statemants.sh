@@ -18,7 +18,7 @@ else
 	echo "all statement are false"
 fi
 
-echo -e "\n note that '[' and ']' are not syntax, they are treated as commands, thus the space is important\n"
+echo -e "\n note in this case '[' and ']' are not syntax, they are treated as commands, thus the space is important\n"
 
 echo -e "Below you will find an example of if statements using text\n"
 
