@@ -1,4 +1,4 @@
-#!/bin/bash
+#!usr/bin/bash
 
 echo -e "In every programming languae they are input and output\nIn bash it's 'echo' and 'read'"
 echo -e "Likewise I am using 'echo' command to print this message\n"
