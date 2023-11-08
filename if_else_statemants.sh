@@ -40,5 +40,5 @@ else
 	echo "not found" 
 fi
 
-echo -e "\ncongratulations, if you understands this you have learned if-statements "
+echo -e "\ncongratulations, if you understand this you have learned if-statements "
 

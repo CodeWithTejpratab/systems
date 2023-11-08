@@ -2,7 +2,7 @@
 #code by CodeWithTejpratab
 #
 
-echo -e "In every programming languae they are input and output\nIn bash it's 'echo' and 'read'"
+echo -e "In every programming language they are input and output\nIn bash it's 'echo' and 'read'"
 echo -e "Likewise I am using 'echo' command to print this message\n"
 echo -e "Before we continue lets try creating variables\nrule 1: when initializing a variable you cannot have spaces between equal signs"
 echo -e "rule 2: when calling a varibale you have to use '$'\nrule 3: when changing a variable do not use '$'"
