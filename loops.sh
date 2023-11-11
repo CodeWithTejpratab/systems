@@ -35,8 +35,8 @@ do
     echo "The word is: $word"
     for ((c = 0; c < ${#word}; c++))
     do
-    char="${word:c:1}"
-    echo "Character at position $c: $char"
+        char="${word:c:1}"
+        echo "Character at position $c: $char"
     done
     echo ""
 done
