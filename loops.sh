@@ -37,4 +37,4 @@ do
     echo ""
 done
 
-echo -e "\nCongratulations you have covered the basics of loops in bash"
+echo -e "\nCongratulations you have covered the basics of loops in bash!"
