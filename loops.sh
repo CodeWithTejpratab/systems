@@ -8,7 +8,7 @@ do
     n=$(($n+1))
 done 
 
-echo -e "\nLets move on to for loops\n'for' loops come in differnt flavors\nlets take a look\n"
+echo -e "\nLets move on to for loops\n'for' loops come in different flavors\nlets take a look\n"
 
 for ((n=0; n<10; n++))
 do 
