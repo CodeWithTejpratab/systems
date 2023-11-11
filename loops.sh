@@ -1,5 +1,5 @@
 echo -e "Loops in bash \nLets start with while loops"
-echo -e "Below you find an expamle of a while\nnote that while loops are simalar to clang\n"
+echo -e "Below you find an example of a while\nnote that while loops are simalar to clang\n"
 
 n=0
 while [ $n -lt 10 ]
@@ -22,4 +22,19 @@ do
     echo "$word"
 done
 
-echo -e "\nCongradulations you have covered the basics of loops in bash"
+echo -e "\nNow lets try something a bit more complex\n"
+
+echo -e "\nLets take a look at another way of writing a for loop\n"
+sentence="It is not raining today"
+for word in $sentence
+do 
+    echo "The word is: $word"
+    for ((c = 0; c < ${#word}; c++))
+    do
+    char="${word:c:1}"
+    echo "Character at position $c: $char"
+    done
+    echo ""
+done
+
+echo -e "\nCongratulations you have covered the basics of loops in bash"
