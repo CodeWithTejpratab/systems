@@ -1,3 +1,7 @@
+#!/usr/bin/bash
+#code by CodeWithTejpratab
+#
+
 echo -e "Loops in bash \nLets start with while loops"
 echo -e "Below you find an example of a while\nnote that while loops are simalar to clang\n"
 
