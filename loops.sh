@@ -24,7 +24,7 @@ done
 
 echo -e "\nNow lets try something a bit more complex\n"
 
-echo -e "\nLets take a look at another way of writing a for loop\n"
+echo -e "\nLets take a look a more complicated way of writing a for loop\n"
 sentence="It is not raining today"
 for word in $sentence
 do 
