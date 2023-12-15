@@ -1,5 +1,5 @@
 #include <stdio.h>
-//compling c code 
+//compiling c code 
 //gcc -o objectfilename sourcefilename.c
 
 void checkScore (float UserInput, int* countLess, int* countMore){
