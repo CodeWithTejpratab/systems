@@ -1,6 +1,19 @@
 #include <stdio.h>
 //compiling c code 
 //gcc -o objectfilename sourcefilename.c
+/*
+Format Specifier: Type
+%c Character
+%d Signed integer
+%f Float values
+%l or %ld or %li Long
+%lf Double
+%o Octal representation
+%p Pointer
+%s String
+%u Unsigned int
+%x or %X Hexadecimal representation
+*/
 
 void checkScore (float UserInput, int* countLess, int* countMore){
     if (UserInput <= 50){
